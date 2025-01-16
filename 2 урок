@@ -1,0 +1,7 @@
+# # name = input("what is your name ?",)
+# # print(name)
+# # age = input("how old are you ?",)
+# # print(age)
+# # country = input("Where are you from ?",)
+# # print(country)
+# # print("he is name ", name , "he is " , age , "his country" , country)
