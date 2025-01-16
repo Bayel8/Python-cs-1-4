@@ -1,0 +1,16 @@
+# # print("Байэл Пошел в магазин")
+# # print("Он пришел в магазин, и смотрит цены ")
+# # print("Купил")
+# # apple = 20
+# # kilo = 3
+# # apple = kilo * apple
+# # beer = int (130)
+# # potato =  int (4.4)
+# # kilo = 50
+# # potato = potato * kilo
+# # print(f" apple: {apple} som. beer:{beer} som potato: {potato} som " )
+# # print("он подошел  к кассе ")
+# # print(f"Продавщица спросила сколько тебе лет ? ")
+# # print(f"Он ответил что ему 20")
+# # print("продавщица пробила товары ")
+# # print("И Байэл ушел домой")
